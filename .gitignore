@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+
+# Raw data folders
+dataset/
+
+# Uploaded images (Flask)
+static/uploads/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Trained model files
+healthy_vs_rotten.h5
+*.keras
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS system files
+.DS_Store
